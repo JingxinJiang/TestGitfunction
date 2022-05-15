@@ -6,7 +6,7 @@ package testgit;
 
 /**
  *
- * @author seanz
+ * @author Jingxin
  */
 public class TestGit {
 
